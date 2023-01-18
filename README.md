@@ -7,3 +7,4 @@ Exploratory Data Analysis
 
 3) Hotel_Booking_features.csv : This csv is for feature categorized detail and unique of features.
 
+4) Copy of Hotel Bookings.csv : This csv is a dataset file.
